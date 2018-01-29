@@ -13,6 +13,9 @@
 ## **Generate Idea Project** ##
 `gradlew idea`
 
+## Libraries++ ##
+springfox.documentation : Automated JSON API documentation for API's built with Spring. 
+
 ## References ##
 * https://spring.io/guides/gs/rest-service/
 * https://spring.io/guides/gs/gradle/
