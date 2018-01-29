@@ -14,8 +14,8 @@
 `gradlew idea`
 
 ## Libraries++ ##
-springfox.documentation : Automated JSON API documentation for API's built with Spring. 
-junit : Unit tests
+`springfox.documentation : Automated JSON API documentation for API's built with Spring.` 
+`junit : Unit tests`
 
 ## References ##
 * https://spring.io/guides/gs/rest-service/
